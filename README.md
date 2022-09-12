@@ -1,4 +1,4 @@
-# ML_Churn_Prediction
+# ML: Churn Prediction in Telecommunications
 
 As a Data Challenge for the Machine Learning exam at Bocconi, I carryed out a classification task with a weighted misclassification loss. \
 The aim was to predict whether clients of a telecommunication company would end the subscription in the upcoming month. \
